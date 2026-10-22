@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff1784d1ElvUI|r ScaleTagFix
+## Notes: ElvUI options plugin: convert profile scale and add retail-style tags.
+## Author: ScaleTagFix contributors
+## Version: 0.7.1
+## RequiredDeps: ElvUI
+## SavedVariables: ElvUIScaleTagFixDB
+
+core.lua
